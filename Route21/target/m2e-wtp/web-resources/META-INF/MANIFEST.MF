@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: route21-rest
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ril003
+Implementation-Vendor-Id: com.route21.service
+Build-Jdk: 1.8.0_72
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
